@@ -31,7 +31,7 @@ The model consists of:
 ## To train and save the model:
 
 ```bash
-python your_script.py
+python main.py
 ```
 
 ## Predicting Custom Digits
